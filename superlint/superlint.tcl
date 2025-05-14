@@ -1,5 +1,5 @@
 clear -all
-set design_top mul_div
+set design_top n_bit_adder
 
 analyze -sv -f superlint_list 
 config_rtlds -rule -load superlint_Verilog_SystemVerilog.def

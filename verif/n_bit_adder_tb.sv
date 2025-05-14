@@ -56,5 +56,8 @@ module n_bit_adder_tb;
         #50;
         $finish;
     end
-
+		initial begin
+    		$dumpfile("dump.vcd"); 
+    		$dumpvars;
+		end
 endmodule

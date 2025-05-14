@@ -1,8 +1,5 @@
 
-################## DON'T ERASE COMMENTS PLEASE ######################
-
-
-
+################## DON'T ERASE COMMENTS PLEASE ##################
 
 ../rtl/dff.sv
 ../rtl/full_adder.sv

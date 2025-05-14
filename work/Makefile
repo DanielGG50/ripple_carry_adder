@@ -30,7 +30,7 @@ cov_gui:
 	imc -load merged_cov
 
 simvision:
-	simvision shm_db
+	simvision dump.vcd
 
 formal:
 	jaspergold ../formal/static_fv_jg.tcl -acquire_proj -no_gui
