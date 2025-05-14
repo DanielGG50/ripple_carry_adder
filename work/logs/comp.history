@@ -1,0 +1,1 @@
+s1(13May2025:22:36:36):  xrun -f list.f -l ./logs/comp.log +define+alfacen_noaxi_base_test+ -access +rwc -seed num_seed -timescale 1ns/1ps -sv 
